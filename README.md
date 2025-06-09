@@ -47,6 +47,7 @@ Skin diseases and rashes are among the most common medical conditions globally. 
     ```
 - Images are displayed with controlled width to avoid consuming too much screen space.
 
+![Landing Page](App1.png)
 ---
 
 ### 🔍 Analyze Image Button
@@ -103,6 +104,7 @@ Each button triggers a specific prompt to GPT-3.5 to provide detailed guidance:
 - Lists tablets, ointments, and other relevant medications including approximate usage.
 - **Use Case**: Provides a quick reference guide for the doctor, aiding in decision-making and prescriptions.
 
+![Landing Page](App2.png)
 ---
 
 ## ⚕️ Medical Sector Applications
