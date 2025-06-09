@@ -120,5 +120,13 @@ Each button triggers a specific prompt to GPT-3.5 to provide detailed guidance:
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Key Libraries
+
+- **Streamlit**: For building interactive UI.
+- **OpenAI**: For GPT-4 and GPT-3.5 API calls.
+- **dotenv**: For secure API key management.
+- **base64**: For encoding images.
+- **tempfile**: For safe image handling.
+
+---
 
