@@ -2,8 +2,6 @@
 
 A Streamlit-based web application that uses OpenAI’s GPT-4 model to analyze medical images, generate diagnostic reports, and provide recommendations for healthcare professionals.  
 
----
-
 ## 📌 Problem Statement
 
 Skin diseases and rashes are among the most common medical conditions globally. Early diagnosis and effective management of these conditions can significantly improve patient outcomes. However, access to dermatologists or specialists might be limited, and initial triaging of symptoms can be challenging.
@@ -15,8 +13,6 @@ Skin diseases and rashes are among the most common medical conditions globally. 
 - Providing easy-to-understand explanations for patients.
 
 ⚠️ **Note**: This tool is not a replacement for professional medical advice. It is intended to assist, not substitute, clinical decision-making.
-
----
 
 ## 🎯 Objectives
 
@@ -33,8 +29,6 @@ Skin diseases and rashes are among the most common medical conditions globally. 
    - **ELI5 Explanation**: Explain the results in simple language for patients.
    - **Medications Overview**: Provide a quick summary of tablets, ointments, and other treatments to help doctors with decision-making.
 
----
-
 ## 🛠️ Key Features and Flow
 
 ### 🖼️ Image Upload
@@ -48,7 +42,7 @@ Skin diseases and rashes are among the most common medical conditions globally. 
 - Images are displayed with controlled width to avoid consuming too much screen space.
 
 ![Landing Page](App1.png)
----
+
 
 ### 🔍 Analyze Image Button
 - Users click **Analyze Image** to initiate AI analysis.
@@ -66,7 +60,7 @@ Skin diseases and rashes are among the most common medical conditions globally. 
     ```
 - The result is displayed in markdown format, supporting rich text and bullet points.
 
----
+
 
 ### 📑 Diagnostic Report Section
 - Displays the AI-generated diagnostic report to the user.
@@ -78,7 +72,7 @@ Skin diseases and rashes are among the most common medical conditions globally. 
 - Includes a **disclaimer** at the end:
   > "Consult with a doctor before making any decisions."
 
----
+
 
 ### 💡 Additional Insights Buttons
 
@@ -105,7 +99,7 @@ Each button triggers a specific prompt to GPT-3.5 to provide detailed guidance:
 - **Use Case**: Provides a quick reference guide for the doctor, aiding in decision-making and prescriptions.
 
 ![Landing Page](App2.png)
----
+
 
 ## ⚕️ Medical Sector Applications
 
@@ -120,7 +114,6 @@ Each button triggers a specific prompt to GPT-3.5 to provide detailed guidance:
 ✅ **Training Resource**  
 - Can be used in dermatology training programs to teach students about differential diagnosis, recommended treatments, and patient communication.
 
----
 
 ## 🛠️ Key Libraries
 
