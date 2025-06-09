@@ -130,5 +130,5 @@ Each button triggers a specific prompt to GPT-3.5 to provide detailed guidance:
 - **base64**: For encoding images.
 - **tempfile**: For safe image handling.
 
----
+
 
